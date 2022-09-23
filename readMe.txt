@@ -1,0 +1,1 @@
+#we are creating azure resources using terraform
