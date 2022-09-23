@@ -1,6 +1,6 @@
 resource   "azurerm_resource_group"   "rg"   { 
    name   =   "my-first-terraform-rg" 
-   location   =   "north europe" 
+   location   =   "northeurope" 
  }
 
 resource   "azurerm_virtual_network"   "myvnet"   { 
